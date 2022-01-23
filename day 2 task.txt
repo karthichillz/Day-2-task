@@ -1,0 +1,29 @@
+type of
+The typeof operator returns a string indicating the type of the unevaluated operand.
+
+typeof(1)
+this typeof operator is Number
+
+typeof1.1
+this typeof operator is number
+
+typeof('1.1')
+this typeof operator is string
+
+typeof(true)
+this typeof operator is Boolean
+
+typeof(null)
+this typeof operator is object
+
+typeof(undefined)
+this typeof operator is undefined
+
+typeof([])
+this typeof operator is object
+
+typeof({})
+this typeof operator is object
+
+typeof(NaN)
+this typeof operator is number
